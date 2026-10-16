@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1170-pausereason-enum-is-fully-defined-but-never",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1170-pausereason-enum-is-fully-defined-but-never": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1170-pausereason-enum-is-fully-defined-but-never",
+    "origin"
+  ]
+}
